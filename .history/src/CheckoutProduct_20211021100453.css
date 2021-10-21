@@ -1,0 +1,7 @@
+.checkoutProduct {
+    display: flex;
+}
+
+.checkoutProduct__image{
+    object-fit: contain;
+}

@@ -1,0 +1,6 @@
+.product{
+    display: flex;
+}
+.product__rating{
+    display:flex;
+}

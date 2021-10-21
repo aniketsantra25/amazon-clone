@@ -1,0 +1,12 @@
+.product{
+    display: flex;
+}
+
+.product__rating{
+    display:flex;
+}
+
+.product > img{
+    width: 100%;
+    
+}
